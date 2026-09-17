@@ -17,3 +17,12 @@ Product owner is like a tradintional leader of the team that looks over the whol
 Sprint Planning: Initiates the cycle. Team decide the plans for the sprint.
 Daily Scrum: Daily sync of team members, short meeting. Team members share their progress, as well as bugs or barriers.
 Sprint Retrospective: To finish the cycle. The team discuss the performance, and also what to do in next sprint.
+
+(d)
+Epic: The biggest amongst these lists  and can be filled with with smaller task or childs
+
+Story: A feature or work 
+
+Bug: Error in code
+
+Task: work to be done
