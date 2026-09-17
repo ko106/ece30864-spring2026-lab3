@@ -13,3 +13,7 @@ Cons:
 Scrum master is a specific role for the project scrum to ensure that scrum rules are being protected.
 Product owner is like a tradintional leader of the team that looks over the whole task.
 
+(C)
+Sprint Planning: Initiates the cycle. Team decide the plans for the sprint.
+Daily Scrum: Daily sync of team members, short meeting. Team members share their progress, as well as bugs or barriers.
+Sprint Retrospective: To finish the cycle. The team discuss the performance, and also what to do in next sprint.
