@@ -9,5 +9,7 @@ Cons:
 2. Team has to communicate more often(which can be also overwhelming).
 
 
-
+(B)
+Scrum master is a specific role for the project scrum to ensure that scrum rules are being protected.
+Product owner is like a tradintional leader of the team that looks over the whole task.
 
